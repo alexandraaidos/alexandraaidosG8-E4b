@@ -1,0 +1,88 @@
+/* screen - desktop-3 */
+
+.desktop-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 982px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.desktop-3 .flex-row {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  min-width: 1105px;
+}
+
+.desktop-3 .formao {
+  height: 39px;
+  margin-bottom: 36.28px;
+  width: 190px;
+}
+
+.desktop-3 .image-1 {
+  height: 276px;
+  margin-left: 170px;
+  object-fit: cover;
+  width: 745px;
+}
+
+.desktop-3 .escolaridade-bsica-c {
+  height: 181px;
+  margin-left: 143.97px;
+  margin-top: 2px;
+  width: 704px;
+}
+
+.desktop-3 .experincia-profissional {
+  align-self: flex-end;
+  height: 39px;
+  margin-right: 231.47px;
+  margin-top: 149px;
+  width: 466px;
+}
+
+.desktop-3 .overlap-group1 {
+  height: 312px;
+  margin-left: -3.5px;
+  margin-top: 23px;
+  position: relative;
+  width: 1416px;
+}
+
+.desktop-3 .overlap-group {
+  height: 312px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1394px;
+}
+
+.desktop-3 .image-2 {
+  height: 312px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 867px;
+}
+
+.desktop-3 .realizao-de-um-estgi {
+  height: 57px;
+  left: 707px;
+  position: absolute;
+  top: 25px;
+  width: 686px;
+}
+
+.desktop-3 .ellipse-2 {
+  cursor: pointer;
+  height: 47px;
+  left: 1370px;
+  position: absolute;
+  top: 246px;
+  width: 47px;
+}

@@ -1,0 +1,97 @@
+/* screen - desktop-4 */
+
+.desktop-4 {
+  background-color: var(--white);
+  height: 982px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-4 .overlap-group {
+  height: 982px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop-4 .image-17 {
+  height: 470px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 777px;
+}
+
+.desktop-4 .image-18 {
+  height: 529px;
+  left: 552px;
+  object-fit: cover;
+  position: absolute;
+  top: 453px;
+  width: 888px;
+}
+
+.desktop-4 .competncias {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  left: 108px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 102px;
+  width: 652px;
+}
+
+.desktop-4 .lnguas-portugus {
+  left: 133px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 268px;
+  width: 339px;
+}
+
+.desktop-4 .adobe-photoshop-3 {
+  left: 304px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 634px;
+  width: 260px;
+}
+
+.desktop-4 .office-microsoft-wo {
+  left: 574px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 386px;
+  width: 372px;
+}
+
+.desktop-4 .programao-bracket {
+  left: 892px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 660px;
+  width: 180px;
+}
+
+.desktop-4 .ellipse-1 {
+  background-color: var(--white);
+  border-radius: 23px;
+  cursor: pointer;
+  height: 46px;
+  left: 1371px;
+  position: absolute;
+  top: 918px;
+  width: 46px;
+}
+
+.desktop-4 .outros-programas-au {
+  left: 1026px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 232px;
+  width: 368px;
+}

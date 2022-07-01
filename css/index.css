@@ -1,0 +1,114 @@
+/* screen - desktop-1 */
+
+.index {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  width: 1440px;
+}
+
+.index .overlap-group2 {
+  align-items: flex-start;
+  background-color: #edf3ff;
+  display: flex;
+  height: 982px;
+  min-width: 659px;
+  padding: 443px 113px;
+}
+
+.index .o-meu-portflio {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  min-height: 86px;
+  width: 433px;
+}
+
+.index .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 139px;
+  margin-top: 249px;
+  min-height: 491px;
+  width: 575px;
+}
+
+.index .overlap-group4 {
+  height: 93px;
+  position: relative;
+  width: 575px;
+}
+
+.index .rectangle {
+  cursor: pointer;
+  height: 93px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 575px;
+}
+
+.index .sobre-mim {
+  left: 185px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 21px;
+  width: 205px;
+}
+
+.index .overlap-group1 {
+  height: 93px;
+  margin-top: 39px;
+  position: relative;
+  width: 575px;
+}
+
+.index .formao {
+  left: 193px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 22px;
+  width: 189px;
+}
+
+.index .overlap-group {
+  height: 92px;
+  margin-top: 41px;
+  position: relative;
+  width: 575px;
+}
+
+.index .rectangle-4 {
+  cursor: pointer;
+  height: 92px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 575px;
+}
+
+.index .competncias {
+  left: 149px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 21px;
+  width: 277px;
+}
+
+.index .overlap-group3 {
+  height: 93px;
+  margin-top: 40px;
+  position: relative;
+  width: 575px;
+}
+
+.index .projetos-realizados {
+  left: 99px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 22px;
+  width: 378px;
+}

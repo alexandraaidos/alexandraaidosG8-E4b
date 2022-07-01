@@ -1,0 +1,98 @@
+/* screen - desktop-2 */
+
+.desktop-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 982px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.desktop-2 .overlap-group {
+  align-items: center;
+  background-color: #edf3ff;
+  display: flex;
+  height: 986px;
+  min-width: 1752px;
+  padding: 20px 107px;
+}
+
+.desktop-2 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 129.0px;
+  min-height: 495px;
+  width: 722px;
+}
+
+.desktop-2 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 114px;
+  margin-right: 1.0px;
+  min-width: 383px;
+}
+
+.desktop-2 .sobre {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  min-height: 76px;
+  width: 170px;
+}
+
+.desktop-2 .mim {
+  align-self: flex-end;
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-left: 1px;
+  min-height: 77px;
+  width: 212px;
+}
+
+.desktop-2 .o-meu-nome-completo {
+  letter-spacing: 0;
+  margin-top: 50px;
+  min-height: 331px;
+  width: 722px;
+}
+
+.desktop-2 .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 173.0px;
+  margin-left: 144px;
+  min-height: 485px;
+  width: 366px;
+}
+
+.desktop-2 .img_1174-2 {
+  height: 300px;
+  object-fit: cover;
+  width: 312px;
+}
+
+.desktop-2 .contactos-alexandra {
+  letter-spacing: 0;
+  margin-top: 36px;
+  min-height: 149px;
+  width: 366px;
+}
+
+.desktop-2 .ellipse-2 {
+  align-self: flex-end;
+  background-color: var(--white);
+  border-radius: 24px;
+  cursor: pointer;
+  height: 48px;
+  margin-left: 17px;
+  width: 48px;
+}

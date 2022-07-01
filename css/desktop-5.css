@@ -1,0 +1,236 @@
+/* screen - desktop-5 */
+
+.desktop-5 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3048px;
+  width: 1440px;
+}
+
+.desktop-5 .overlap-group {
+  align-items: flex-end;
+  background-image: url(../img/image-7@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 141px;
+  justify-content: flex-end;
+  margin-top: -28px;
+  min-width: 710px;
+  padding: 19.5px 37px;
+}
+
+.desktop-5 .projetos-realizados {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  min-height: 64px;
+  width: 469px;
+}
+
+.desktop-5 .overlap-group2 {
+  align-self: center;
+  height: 2811px;
+  margin-right: 7.0px;
+  margin-top: 64px;
+  position: relative;
+  width: 1373px;
+}
+
+.desktop-5 .overlap-group3 {
+  height: 2805px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1354px;
+}
+
+.desktop-5 .overlap-group1 {
+  height: 2805px;
+  left: 87px;
+  position: absolute;
+  top: 0;
+  width: 1237px;
+}
+
+.desktop-5 .image-5 {
+  height: 417px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 1237px;
+}
+
+.desktop-5 .alfabeto-no-quotidia {
+  left: 261px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 9px;
+  width: 331px;
+}
+
+.desktop-5 .cadeira-explodida-pr {
+  left: 636px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 9px;
+  width: 330px;
+}
+
+.desktop-5 .vector-1 {
+  height: 2805px;
+  left: 614px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.desktop-5 .image-9 {
+  height: 334px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 615px;
+  width: 264px;
+}
+
+.desktop-5 .image-10 {
+  height: 352px;
+  left: 1087px;
+  object-fit: cover;
+  position: absolute;
+  top: 628px;
+  width: 263px;
+}
+
+.desktop-5 .t-shirt-projeto-em-d {
+  left: 348px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 625px;
+  width: 331px;
+}
+
+.desktop-5 .artefacto-de-ilumina {
+  left: 734px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 625px;
+  width: 331px;
+}
+
+.desktop-5 .desenvolvimento-de-u {
+  left: 734px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1198px;
+  width: 331px;
+}
+
+.desktop-5 .animao-projeto-em {
+  left: 734px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1716px;
+  width: 331px;
+}
+
+.desktop-5 .bilheteira-de-molice {
+  left: 734px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2318px;
+  width: 331px;
+}
+
+.desktop-5 .indstria-alimentar {
+  left: 348px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1198px;
+  width: 331px;
+}
+
+.desktop-5 .desenvolvimento-de-p {
+  left: 341px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1721px;
+  width: 331px;
+}
+
+.desktop-5 .mobilirio-urbano-pr {
+  left: 341px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2318px;
+  width: 331px;
+}
+
+.desktop-5 .image-11 {
+  height: 380px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 1170px;
+  width: 263px;
+}
+
+.desktop-5 .image-12 {
+  height: 381px;
+  left: 1074px;
+  object-fit: cover;
+  position: absolute;
+  top: 1197px;
+  width: 264px;
+}
+
+.desktop-5 .image-13 {
+  height: 383px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 1722px;
+  width: 268px;
+}
+
+.desktop-5 .image-14 {
+  height: 407px;
+  left: 1124px;
+  object-fit: cover;
+  position: absolute;
+  top: 1726px;
+  width: 193px;
+}
+
+.desktop-5 .image-15 {
+  height: 251px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2319px;
+  width: 337px;
+}
+
+.desktop-5 .image-16 {
+  height: 394px;
+  left: 1105px;
+  object-fit: cover;
+  position: absolute;
+  top: 2267px;
+  width: 249px;
+}
+
+.desktop-5 .ellipse-2 {
+  cursor: pointer;
+  height: 41px;
+  left: 1333px;
+  position: absolute;
+  top: 2770px;
+  width: 40px;
+}
